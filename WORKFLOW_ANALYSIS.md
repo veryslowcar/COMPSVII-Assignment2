@@ -9,4 +9,4 @@
 ## 5. How does this automated deployment improve reliability compared to manual deployment?
     This automated deployment improves reliability because the same process happens every single time code is pushed to the main branch
 ## 6. What would happen if you pushed code to a different branch (not main)?
-    The workflow wouldn't work properly and the website wouldn't be deployed.
+    The workflow wouldn't work properly and the website wouldn't be deployed because it got pushed to a different branch.
